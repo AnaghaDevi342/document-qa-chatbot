@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "question": "What is the Day 5 project?",
+    "expected_keywords": [
+      "Dockerized",
+      "FastAPI",
+      "data pipeline"
+    ],
+    "type": "known"
+  },
+  {
+    "id": 2,
+    "question": "What technologies are used in the Day 5 project?",
+    "expected_keywords": [
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Pandas",
+      "Docker"
+    ],
+    "type": "known"
+  },
+  {
+    "id": 3,
+    "question": "What are the topics related to Docker?",
+    "expected_keywords": [
+      "Docker Compose",
+      "Dockerfile",
+      "containers"
+    ],
+    "type": "known"
+  },
+  {
+    "id": 4,
+    "question": "Who is the CEO of Gapblue?",
+    "expected_keywords": [],
+    "type": "unknown"
+  }
+]
